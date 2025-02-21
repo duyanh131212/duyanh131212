@@ -7,4 +7,4 @@ Prev Software Engineer Intern @ [Tesla](), [Klaviyo](https://www.klaviyo.com/), 
 
 - ⚙️ I use daily: `.py`, `.go`, `.ts`
 - 🧑‍🎓 Studying: `backend`, `data store`, `concurrency`
-- 💬 `ping` me about **data**, **branding**, **development**, **performance**
+- 💬 `ping` me about **data**
